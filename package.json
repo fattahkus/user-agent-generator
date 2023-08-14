@@ -1,0 +1,42 @@
+{
+  "name": "user-agents-generator",
+  "version": "1.0.2",
+  "description": "A Minimal Package to Generate unlimited user agents",
+  "main": "index.js",
+  "homepage": "https://github.com/fattahkus/user-agent-generator#readme",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "user-agents",
+    "nodejs",
+    "javaScript",
+    "user",
+    "agent",
+    "changer",
+    "unique",
+    "random",
+    "unlimited",
+    "agents",
+    "generator",
+    "chrome",
+    "firefox",
+    "safari",
+    "mac os",
+    "linux",
+    "windows",
+    "puppeteer",
+    "playwright",
+    "automation"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fattahkus <fattahirfan05@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:fattahkus/user-agents-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fattahkus/user-agents-generator/issues"
+  }
+}
