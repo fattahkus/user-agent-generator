@@ -8,7 +8,7 @@
 1.  **Install the module in your project:**
 
 ```bash
-npm install user-agents-generator
+npm install https://github.com/fattahkus/user-agent-generator
 ```
 
 2. **Import the module in your script:**
@@ -20,6 +20,7 @@ const userAgentGenerator = require('user-agents-generator');
 3. **Use the module's methods to generate user agents for different browsers and devices:**
 
 ```javascript
+const edgeUserAgent = userAgentGenerator.edge();
 const chromeUserAgent = userAgentGenerator.chrome();
 const firefoxUserAgent = userAgentGenerator.firefox();
 const safariUserAgent = userAgentGenerator.safari();
